@@ -19,7 +19,7 @@ key_stay_on	:= 	"F1"		; self explanatory
 key_hold_mode	:= 	"F2"		; scan will only scan if "key_hold" is pressed
 key_fastclick 	:= 	"F3"		; self explanatory (on/off beep sound only)
 key_off		:= 	"F4"		; self explanatory	
-key_gui_hide	:=	"Home"		; hides gui (graphical user interface)		
+key_gui_hide	:=	"O"		; hides gui (graphical user interface)		
 key_exit	:= 	"End"		; self explanatory		
 key_hold	:=	"LALT" 	; key that you hold to scan (example "T") 	
 
